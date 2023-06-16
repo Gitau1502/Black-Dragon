@@ -9,6 +9,16 @@ Black-Dragon - Simple whatsapp Multi Device whatsapp bot.
     <br>
 <a href='https://black-dragon-qr.up.railway.app' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
+#### DEPLOY TO RAILWAY
+
+1. If You don't have a account in Railway. Create a account.
+    <br>
+<a href='https://railway.app/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-create-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
+
+3. Now Deploy
+    <br>
+<a href='https://railway.app/template/3GDfA0?referralCode=nFnPKI' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-deploy-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
+
 #### DEPLOY TO HEROKU 
 
 1. If You don't have a account in Heroku. Create a account.
